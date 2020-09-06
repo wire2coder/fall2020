@@ -54,6 +54,12 @@ object WordCount {
 The most used 500 words from the file **news-2016-2017.txt** \
 The output is listed in **decesding** order.
 
+### Screeshot
+![output screenshot](https://github.com/wire2coder/fall2020/blob/master/output1.jpg)
+
+
+### Console Output
+
 ```
 Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
 (1817042,the)
